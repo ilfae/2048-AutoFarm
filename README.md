@@ -56,7 +56,7 @@
 
 #### 4.2 Windows или Mac
 - Нажмите на ссылку для автоматической установки скрипта:
-  [Исходный код скрипта](https://github.com/ilfae/2048-AutoFarm/raw/main/Not-Pixel-AutoFarm.user.js).
+  [Исходный код скрипта](https://github.com/ilfae/2048-AutoFarm/raw/refs/heads/main/2048-AutoFarm.user.js).
   
 ### 5. Запуск бота
 - Откройте [Bcoin 2048](https://t.me/Bcoin2048bot/app?startapp=ref_pCGihPQJg61TN70sNtqmbxS4) и запустите игру.
