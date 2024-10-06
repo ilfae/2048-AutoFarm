@@ -53,6 +53,7 @@
   ![Установка скрипта](https://github.com/ilfae/Script-Not-Pixel/blob/main/img/1.png)
 
 - Импортируйте [данный zip-архив](https://github.com/ilfae/2048-AutoFarm/raw/refs/heads/main/@kittenwof.zip) в Violentmonkey BETA.
+  
 `На данный момент на GitHub я не могу загрузить файл, а лишь только создать, именно поэтому тут ссылка на файл в телеграмме и ссылка в пункте 4.2 на файл в GitHub.`
 
 
