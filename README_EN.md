@@ -38,7 +38,7 @@ This script is developed for the game [Bcoin 2048](https://t.me/Bcoin2048bot/app
 - Follow this [link](https://chromewebstore.google.com/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe) and install the "Ignore X-Frame Headers" extension.
 
 ### 2.1 to start the game
-- Move over this [link](https://chromewebstore.google.com/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe ) and install the "Android for Web Telegram" extension.
+- Move over this [link](https://chromewebstore.google.com/detail/android-for-web-telegram/jcgjgeepdhcgghmnalgnhiladhingahb) and install the "Android for Web Telegram" extension.
 
 ### 3. Android
 - Install the "Violentmonkey BETA" extension for script handling:
