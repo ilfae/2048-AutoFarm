@@ -38,7 +38,7 @@
 - Перейдите по данной [ссылке](https://chromewebstore.google.com/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe) и установите расширение "Ignore X-Frame Headers".
 
 ### 2.1 Что-бы игра запустилась 
-- Перейдите по данной [ссылке](https://chromewebstore.google.com/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe) и установите расширение "Android for Web Telegram".
+- Перейдите по данной [ссылке](https://chromewebstore.google.com/detail/android-for-web-telegram/jcgjgeepdhcgghmnalgnhiladhingahb?hl=ru) и установите расширение "Android for Web Telegram".
 
 ### 3. Android
 - Установите расширение "Violentmonkey BETA" для работы со скриптами:
