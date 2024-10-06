@@ -53,6 +53,7 @@ This script is developed for the game [Bcoin 2048](https://t.me/Bcoin2048bot/app
   ![Installing the Script](https://github.com/ilfae/Script-Not-Pixel/blob/main/img/1.png)
 
 - Import [this zip file](https://github.com/ilfae/2048-AutoFarm/raw/refs/heads/main/@kittenwof.zip) into Violentmonkey BETA.
+  
 `Currently, I cannot upload the file to GitHub, so here is a link to the file on Telegram and a link in section 4.2 to the file on GitHub.`
 
 #### 4.2 Windows or Mac
