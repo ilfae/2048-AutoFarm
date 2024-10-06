@@ -37,7 +37,7 @@
 ### 2. Установка расширений
 - Перейдите по данной [ссылке](https://chromewebstore.google.com/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe) и установите расширение "Ignore X-Frame Headers".
 
-### 2.1 Windows или Mac
+### 2.1 Что-бы игра запустилась 
 - Перейдите по данной [ссылке](https://chromewebstore.google.com/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe) и установите расширение "Android for Web Telegram".
 
 ### 3. Android
